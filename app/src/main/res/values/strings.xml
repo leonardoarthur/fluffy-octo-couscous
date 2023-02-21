@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Frases</string>
+    <string name="sem_frases_cadastradas">Sem frases cadastradas</string>
+    <string name="dica_botao_add">Botão para adicionar novas frases</string>
+    <string name="autores">Autores</string>
+    <string name="citacao">Citação</string>
+    <string name="cancelar">cancelar</string>
+    <string name="btn_salvar">salvar</string>
+</resources>
